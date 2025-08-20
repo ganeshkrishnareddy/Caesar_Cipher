@@ -93,7 +93,7 @@ CaesarCipher/
 ```
 
 Make sure to update the repository link here once it's created:
-👉 **GitHub Repo:** *(https://github.com/ganeshkrishnareddy/Prodigy_CS_Task_01)*
+👉 **GitHub Repo:** *([https://github.com/ganeshkrishnareddy/Prodigy_CS_Task_01](https://github.com/ganeshkrishnareddy/Caesar_Cipher))*
 
 ---
 
